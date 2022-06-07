@@ -22,4 +22,5 @@ Need to learn more about how to get API info using asyncio...
 
 - [ ] continue to learn markdown
 - [ ] XKCD api 
+- [ ] Program bot to make my raid messages!!!
   - get links to comics
