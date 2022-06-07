@@ -2,7 +2,7 @@
 layout: post
 title:  "Stream Summary Mon, June 6, 2022"
 date:   2022-06-06 21:47:56 -0700
-categories: stream summary
+categories: jekyll update
 ---
 
 ## Just learned how to use Markdown
