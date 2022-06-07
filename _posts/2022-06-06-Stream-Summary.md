@@ -27,3 +27,8 @@ Need to learn more about how to get API info using asyncio...
   - get links to comics
 
 :joy: <-- that's an emoji, supposedly
+
+- Thank you for the raids: 
+  - AnthonyWritesCode
+  - TheAltF4Stream, met Eric(BG) and Austin
+    
