@@ -4,7 +4,7 @@
 </div>
 
 ---
-### 👋 Hi, this is my current static blog.
+### README.md
 
 I use ruby and jekyll as the template to keep track of information I want to remember in my Twitch streams. This may eventually become a portfolio, and I will be moving the blog to another platform.
 
