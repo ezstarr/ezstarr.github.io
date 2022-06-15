@@ -1,4 +1,18 @@
-"# ezstarr.github.io" 
+
+<div align="center">
+  <img src="https://github.com/ezstarr/ezstarr.github.io/blob/main/banner.jpg?raw=true" width=100%>
+</div>
+
+---
+### 👋 Hi, I’m Esther (@ezstarr)
+
+👩‍💻 I am a full stack engineer from Bay Area, CA.<br>
+👀 I’m interested in psychology, birds, spirituality, creativity, optimism, and new ideas.<br>
+🌱 I’m currently learning python and C, watercolor and gouache.<br>
+💞️ I’m looking to collaborate on any fun project!<br>
+📫 How to reach me: discord - estha#9361<br>
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width=300>
