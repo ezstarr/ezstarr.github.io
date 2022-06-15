@@ -4,13 +4,9 @@
 </div>
 
 ---
-### 👋 Hi, I’m Esther (@ezstarr)
+### 👋 Hi, this is my current static blog.
 
-👩‍💻 I am a full stack engineer from Bay Area, CA.<br>
-👀 I’m interested in psychology, birds, spirituality, creativity, optimism, and new ideas.<br>
-🌱 I’m currently learning python and C, watercolor and gouache.<br>
-💞️ I’m looking to collaborate on any fun project!<br>
-📫 How to reach me: discord - estha#9361<br>
+I use ruby and jekyll as the template to keep track of information I want to remember in my Twitch streams. This may eventually become a portfolio, and I will be moving the blog to another platform.
 
 
 
