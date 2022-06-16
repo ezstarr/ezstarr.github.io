@@ -4,6 +4,7 @@ title:  "Stream Summary Mon, June 15, 2022"
 date:   2022-06-15 21:47:56 -0700
 categories: jekyll update
 ---
+
 # Bots
 ## Discord bot
 Broke discord bot, heroku no longer has environment variables, wordle doesn't work, announcments don't work.
