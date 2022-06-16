@@ -30,3 +30,10 @@ Apparently, the API returns the most recent comic for number '0', so we are all 
 ### TIL:
 - "pour one out" means pay respects
   - https://www.youtube.com/watch?v=mi_CgRU63d8 (ty ucelot for sad naruto song)
+
+- `<?php echo "this is php echo" ?> my html here`
+  - ^ for when I want to put HTML in PHP? 
+- github issues for comments?
+
+Other reminders: 
+Get data from chat, including tarot-reading ratings
